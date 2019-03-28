@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="article" />
+        <module name="comment" />
+        <module name="common" />
+        <module name="config" />
+        <module name="gateway" />
+        <module name="index" />
+        <module name="register" />
+        <module name="user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="article" target="1.6" />
+      <module name="client" target="1.6" />
+      <module name="comment" target="1.6" />
+      <module name="common" target="1.6" />
+      <module name="config" target="1.6" />
+      <module name="gateway" target="1.6" />
+      <module name="index" target="1.6" />
+      <module name="index (1)" target="1.6" />
+      <module name="register" target="1.6" />
+      <module name="springcloud-news" target="1.6" />
+      <module name="user" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
