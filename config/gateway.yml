@@ -3,3 +3,5 @@ zuul:
     api:
       path: /api/**
       serviceId: eurekaclient
+server:
+  port: 8080
